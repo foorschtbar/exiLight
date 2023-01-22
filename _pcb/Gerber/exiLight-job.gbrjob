@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "(6.0.10)"
     },
-    "CreationDate": "2023-01-22T18:36:13+01:00"
+    "CreationDate": "2023-01-22T19:50:49+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "exiLight",
       "GUID": "6578694c-6967-4687-942e-6b696361645f",
-      "Revision": "1.0"
+      "Revision": "1.1"
     },
     "Size": {
       "X": 340.1,
